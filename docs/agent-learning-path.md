@@ -72,6 +72,8 @@
 
 **掌握标准**：能画出 Thought-Action-Observation 循环，理解 planning、reflection、tool use 分别解决什么问题，并能说明它们的代价。
 
+**配套复习笔记**：[`模块 A 复习笔记：Agent 核心范式与经典工作`](./module-a-agent-core-review.md)
+
 | 内容 | 来源 | 类型 |
 | --- | --- | --- |
 | ReAct：推理与行动协同 | https://arxiv.org/abs/2210.03629 | 论文 |
