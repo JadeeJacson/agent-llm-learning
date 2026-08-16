@@ -17,13 +17,21 @@ Agent 与 LLM 应用学习笔记、实验与求职准备仓库。
    - Coding Agent / Agent Harness
    - Multi-Agent 与算法岗分支
 
-2. **2026 国内岗位调研**：[`docs/china-agent-intern-market-2026.md`](./docs/china-agent-intern-market-2026.md)
+2. **模块 A 复习笔记：Agent 核心范式与经典工作**：[`docs/module-a-agent-core-review.md`](./docs/module-a-agent-core-review.md)
+   - 普通 LLM / Augmented LLM / Workflow / Agent 的边界
+   - Agent Loop、Tool Use、Observation 与环境反馈
+   - ReAct 与 Chain-of-Thought 的区别
+   - Planning / Replanning 与 Tree of Thoughts
+   - Reflection / Reflexion、Evaluator 与失败反馈
+   - Minimal Agent 代码骨架、执行轨迹与自检题
+
+3. **2026 国内岗位调研**：[`docs/china-agent-intern-market-2026.md`](./docs/china-agent-intern-market-2026.md)
    - 代表性 Agent / LLM 实习 JD
    - 共性能力与岗位分叉
    - 学习优先级
    - 项目与面试要求
 
-3. **Coding Agent 专项**：[`docs/coding-agent-and-harness.md`](./docs/coding-agent-and-harness.md)
+4. **Coding Agent 专项**：[`docs/coding-agent-and-harness.md`](./docs/coding-agent-and-harness.md)
    - OpenAI Agents SDK / Codex
    - Claude Code / Claude Agent SDK
    - OpenCode
@@ -32,7 +40,7 @@ Agent 与 LLM 应用学习笔记、实验与求职准备仓库。
    - Context Compaction
    - Agent Harness 与源码分析
 
-4. **厂商官方文档与源码阅读计划**：[`docs/vendor-docs-and-source-reading-plan.md`](./docs/vendor-docs-and-source-reading-plan.md)
+5. **厂商官方文档与源码阅读计划**：[`docs/vendor-docs-and-source-reading-plan.md`](./docs/vendor-docs-and-source-reading-plan.md)
    - OpenAI、Anthropic、Kimi、Qwen、ByteDance、MiniMax、GLM、DeepSeek、AgentScope
    - 按 Agent Runtime / Harness、通用 Agent Framework、Agentic Model 三类拆分
    - S / A+ / A / B 学习优先级及理由
